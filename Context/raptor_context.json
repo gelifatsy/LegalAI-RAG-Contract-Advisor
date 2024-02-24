@@ -1,0 +1,14 @@
+ [
+    {"question": "Under what circumstances and to what extent are the sellers responsible for a breach of representations and warranties?",
+     "answer": "Except in the case of fraud, the sellers have no liability for breach of representations and warranties (See Section 10.01)"},
+    {"question": "Would the Sellers be responsible if after the closing it is determined that there were inaccuracies in the representation provided by them where such inaccuracies are the result of the Sellers’ gross negligence?",
+     "answer": "No"},
+    {"question": "How much is the escrow amount?",
+     "answer": "The escrow amount is equal to $1,000,000."},
+    {"question": "Is the escrow amount greater than the Retention Amount?",
+     "answer": "No."},
+    {"question": "What is the purpose of the escrow?",
+     "answer": "To serve as a recourse of the Buyer in case of post-closing adjustments of the purchase price. (See section 2.07(e))."},
+    {"question": "May the Escrow Amount serve as a recourse for the Buyer in case of breach of representations by the Company?",
+     "answer": "No"}
+]
