@@ -1,5 +1,5 @@
 import logging
-from logger import configure_logger
+from logger_config import configure_logger
 from langchain.chains import RetrievalQA
 from langchain.document_loaders import TextLoader
 from langchain.embeddings.openai import OpenAIEmbeddings
