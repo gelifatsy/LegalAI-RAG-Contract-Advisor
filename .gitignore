@@ -5,3 +5,5 @@ data/*
 chroma_db/*
 front_end/contract_advisor/node_modules/*
 front_end/contract_advisor/node_modules/*
+
+node_modules/*
