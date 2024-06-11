@@ -14,19 +14,17 @@ ContractAdvisorRAG: Development of a Q&A system with RAG using Langchain. This r
 * **Optimization:** Enhance the system with targeted improvements for legal document interaction.
 * **Evaluation:** Measure the impact of optimizations and document the findings.
 
-**Structure:**
-
-* **Task 1: Research:** Literature review, analysis of performance metrics, investigating efficiency, and personalization.
-* **Task 2: Building the system:** LLM selection, component design, retriever and generator development, integration and testing.
-* **Task 3: Evaluation:** Setting metrics, defining benchmarks, implementing tools, and analyzing results.
-* **Task 4: Optimization:** Identifying key areas for improvement, implementing selected enhancements, and evaluating their impact.
-* **Task 5: Reporting:** Presenting findings in a clear and concise format.
 
 **Key Findings:**
 
-* The system demonstrates potential for Q&A in legal documents, but further optimization is required for accuracy and reliability.
-* Targeted enhancements focusing on legal language understanding, precision, and data curation showed promising improvements.
-* Collaboration between legal professionals and AI researchers is crucial for effective development and deployment of such systems.
+![Optimization Techniques Comparison](screenshots/comparison_improvement_approches.png)
+
+* Simple vector database backed RAG pipeline implemented and evaluated with RAGAS.
+* Major improvement areas found out at retrieval component.
+* The retrieval component optimized with tools like query optimization, context compression, and context reranking.
+* The final RAG pipeline for Q&A works fine by combining query optimization with CoHERE reranking from Langchain.
+
+**Project demo video:**
 
 [![ContractAdvisorRAG Video](https://img.youtube.com/vi/KjBWNNN3thA/maxresdefault.jpg)](https://www.youtube.com/watch?v=KjBWNNN3thA)
 
