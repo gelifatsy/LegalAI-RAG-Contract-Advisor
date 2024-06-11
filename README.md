@@ -1,5 +1,5 @@
 # LegalAI-RAG-ContractAdvisor
-ContractAdvisorRAG: Development of a Q&amp;A system with RAG using Langchain. This repository contains the code and documentation for building an AI-based legal assistance system for contracts. It includes retrieval and generation components, backend and frontend integration, as well as tools for evaluating and optimizing the RAG system using RAGAS.
+ContractAdvisorRAG: Development of a Q&A system with RAG using Langchain. This repository contains the code and documentation for building an AI-based legal assistance system for contracts. It includes retrieval and generation components, backend and frontend integration, as well as tools for evaluating and optimizing the RAG system using RAGAS.
 
 **Motivation:**
 
@@ -28,10 +28,8 @@ ContractAdvisorRAG: Development of a Q&amp;A system with RAG using Langchain. Th
 * Targeted enhancements focusing on legal language understanding, precision, and data curation showed promising improvements.
 * Collaboration between legal professionals and AI researchers is crucial for effective development and deployment of such systems.
 
-<div style="position: sticky; top: 0; padding: 20px 0;">
-  <div style="position: relative; padding-bottom: 56.25%; height: 0;">
-    <iframe src="https://www.youtube.com/embed/KjBWNNN3thA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/KjBWNNN3thA" frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
 The video showcases the basic functionality of the ContractAdvisorRAG system.
