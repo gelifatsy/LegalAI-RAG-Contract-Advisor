@@ -24,6 +24,7 @@ ContractAdvisorRAG: Development of a Q&A system with RAG using Langchain. This r
 * The retrieval component optimized with tools like query optimization, context compression, and context reranking.
 * The final RAG pipeline for Q&A works fine by combining query optimization with CoHERE reranking from Langchain.
 
+**Project demo video:**
 
 [![ContractAdvisorRAG Video](https://img.youtube.com/vi/KjBWNNN3thA/maxresdefault.jpg)](https://www.youtube.com/watch?v=KjBWNNN3thA)
 
