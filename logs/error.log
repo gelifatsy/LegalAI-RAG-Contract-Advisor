@@ -1,0 +1,547 @@
+2024-02-22 15:21:16,592 - INFO - Starting document loading from ../data/Evaluation Sets/Raptor Contract.docx
+2024-02-22 15:21:16,592 - ERROR - Error loading TXT files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:21:16,593 - ERROR - Error loading PDF files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:21:16,593 - ERROR - Error loading CSV files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:21:16,593 - ERROR - Error loading DOCX files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:21:16,593 - INFO - Successfully loaded 0 documents.
+2024-02-22 15:29:41,942 - INFO - Starting document loading from ../data/Evaluation Sets/'Raptor Contract'.docx
+2024-02-22 15:29:41,942 - ERROR - Error loading TXT files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:29:41,942 - ERROR - Error loading PDF files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:29:41,942 - ERROR - Error loading CSV files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:29:41,942 - ERROR - Error loading DOCX files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:29:41,943 - INFO - Successfully loaded 0 documents.
+2024-02-22 15:33:12,638 - INFO - Starting document loading from ../data/Evaluation Sets/Raptor Contract.docx
+2024-02-22 15:33:12,638 - ERROR - Error loading TXT files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:33:12,639 - ERROR - Error loading PDF files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:33:12,640 - ERROR - Error loading CSV files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:33:12,640 - ERROR - Error loading DOCX files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:33:12,640 - INFO - Successfully loaded 0 documents.
+2024-02-22 15:36:39,978 - INFO - Starting document loading from ../data/'Evaluation Sets/''Raptor Contract.docx'
+2024-02-22 15:36:39,978 - ERROR - Error loading TXT files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:36:39,978 - ERROR - Error loading PDF files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:36:39,978 - ERROR - Error loading CSV files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:36:39,978 - ERROR - Error loading DOCX files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:36:39,978 - INFO - Successfully loaded 0 documents.
+2024-02-22 15:36:51,003 - INFO - Starting document loading from ../data/'Evaluation Sets/''Raptor Contract.docx'
+2024-02-22 15:36:51,003 - ERROR - Error loading TXT files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:36:51,003 - ERROR - Error loading PDF files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:36:51,004 - ERROR - Error loading CSV files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:36:51,004 - ERROR - Error loading DOCX files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:36:51,004 - INFO - Successfully loaded 0 documents.
+2024-02-22 15:38:14,604 - INFO - Starting document loading from /home/elias/Documents/10 Academy/WEEK 11/LegalAI-RAG-Contract-Advisor/data/Evaluation Sets/Raptor Contract.docx
+2024-02-22 15:38:14,604 - ERROR - Error loading TXT files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:38:14,605 - ERROR - Error loading PDF files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:38:14,605 - ERROR - Error loading CSV files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:38:14,605 - ERROR - Error loading DOCX files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:38:14,605 - INFO - Successfully loaded 0 documents.
+2024-02-22 15:38:38,093 - INFO - Starting document loading from /home/elias/Documents/10 Academy/WEEK 11/LegalAI-RAG-Contract-Advisor/data/job_status.csv
+2024-02-22 15:38:38,094 - ERROR - Error loading TXT files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:38:38,094 - ERROR - Error loading PDF files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:38:38,094 - ERROR - Error loading CSV files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:38:38,094 - ERROR - Error loading DOCX files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:38:38,095 - INFO - Successfully loaded 0 documents.
+2024-02-22 15:39:15,817 - INFO - Starting document loading from /home/elias/Documents/10 Academy/WEEK 11/LegalAI-RAG-Contract-Advisor/data/job_status.csv
+2024-02-22 15:39:15,818 - ERROR - Error loading TXT files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:39:15,818 - ERROR - Error loading PDF files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:39:15,818 - ERROR - Error loading CSV files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:39:15,818 - ERROR - Error loading DOCX files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:39:15,819 - INFO - Successfully loaded 0 documents.
+2024-02-22 15:39:44,846 - INFO - Starting document loading from ../data/Evaluation Sets/Raptor Contract.docx
+2024-02-22 15:39:44,846 - ERROR - Error loading TXT files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:39:44,846 - ERROR - Error loading PDF files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:39:44,846 - ERROR - Error loading CSV files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:39:44,846 - ERROR - Error loading DOCX files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:39:44,846 - INFO - Successfully loaded 0 documents.
+2024-02-22 15:57:05,949 - INFO - Starting document loading from ../data/Evaluation Sets/Raptor Contract.docx
+2024-02-22 15:57:05,950 - ERROR - Error loading TXT files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:57:05,950 - ERROR - Error loading PDF files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:57:05,950 - ERROR - Error loading CSV files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:57:05,950 - ERROR - Error loading DOCX files: 'str' object has no attribute 'as_posix'
+2024-02-22 15:57:05,950 - INFO - Successfully loaded 0 documents.
+2024-02-22 16:00:14,044 - INFO - Starting document loading from ../data/
+2024-02-22 16:00:14,044 - ERROR - Error loading TXT files: 'str' object has no attribute 'as_posix'
+2024-02-22 16:00:14,044 - ERROR - Error loading PDF files: 'str' object has no attribute 'as_posix'
+2024-02-22 16:00:14,044 - ERROR - Error loading CSV files: 'str' object has no attribute 'as_posix'
+2024-02-22 16:00:14,044 - ERROR - Error loading DOCX files: 'str' object has no attribute 'as_posix'
+2024-02-22 16:00:14,044 - INFO - Successfully loaded 0 documents.
+2024-02-22 16:00:39,035 - INFO - Starting document loading from ../data/
+2024-02-22 16:00:39,035 - ERROR - Error loading TXT files: 'str' object has no attribute 'as_posix'
+2024-02-22 16:00:39,035 - ERROR - Error loading PDF files: 'str' object has no attribute 'as_posix'
+2024-02-22 16:00:39,035 - ERROR - Error loading CSV files: 'str' object has no attribute 'as_posix'
+2024-02-22 16:00:39,035 - ERROR - Error loading DOCX files: 'str' object has no attribute 'as_posix'
+2024-02-22 16:00:39,035 - INFO - Successfully loaded 0 documents.
+2024-02-22 16:02:25,605 - INFO - Starting document loading from ../data/
+2024-02-22 16:02:25,605 - ERROR - Error loading DOCX files: 'str' object has no attribute 'as_posix'
+2024-02-22 16:02:25,605 - INFO - Successfully loaded 0 documents.
+2024-02-22 16:04:56,603 - INFO - Starting document loading from ../data/Evaluation Sets/Raptor Contract.docx
+2024-02-22 16:04:56,603 - ERROR - Error loading DOCX files: name 'Docx2txtLoader' is not defined
+2024-02-22 16:04:56,604 - INFO - Successfully loaded 0 documents.
+2024-02-22 16:06:52,648 - INFO - Starting document loading from ../data/Evaluation Sets/Raptor Contract.docx
+2024-02-22 16:06:52,648 - ERROR - Error loading DOCX files: Expected directory, got file: '../data/Evaluation Sets/Raptor Contract.docx'
+2024-02-22 16:06:52,649 - INFO - Successfully loaded 0 documents.
+2024-02-22 16:08:24,459 - INFO - Starting document loading from ../data/Evaluation Sets
+2024-02-22 16:08:25,476 - ERROR - Error loading DOCX files: 'DirectoryLoader' object has no attribute 'loaded_count'
+2024-02-22 16:08:25,476 - INFO - Successfully loaded 4 documents.
+2024-02-22 16:39:01,889 - INFO - Starting document loading from ../data/Evaluation Sets
+2024-02-22 16:39:02,252 - ERROR - Error loading DOCX files: 'DirectoryLoader' object has no attribute 'loaded_count'
+2024-02-22 16:39:02,473 - ERROR - Error loading TXT files: 'DirectoryLoader' object has no attribute 'loaded_count'
+2024-02-22 16:39:02,473 - ERROR - Error loading PDF files: name 'PyPDFLoader' is not defined
+2024-02-22 16:39:02,473 - ERROR - Error loading CSV files: name 'CSVLoader' is not defined
+2024-02-22 16:39:02,473 - INFO - Successfully loaded 8 documents.
+2024-02-22 16:40:16,875 - INFO - Starting document loading from ../data/Evaluation Sets
+2024-02-22 16:40:17,215 - ERROR - Error loading DOCX files: 'DirectoryLoader' object has no attribute 'loaded_count'
+2024-02-22 16:40:17,411 - ERROR - Error loading TXT files: 'DirectoryLoader' object has no attribute 'loaded_count'
+2024-02-22 16:40:17,411 - ERROR - Error loading PDF files: name 'PyPDFLoader' is not defined
+2024-02-22 16:40:17,412 - ERROR - Error loading CSV files: name 'CSVLoader' is not defined
+2024-02-22 16:40:17,412 - INFO - Successfully loaded 8 documents.
+2024-02-22 16:44:36,788 - INFO - Starting document loading from ../data/Evaluation Sets
+2024-02-22 16:44:37,119 - ERROR - Error loading DOCX files: 'DirectoryLoader' object has no attribute 'loaded_count'
+2024-02-22 16:44:37,120 - ERROR - Error loading TXT files: name 'TextLoader' is not defined
+2024-02-22 16:44:37,120 - ERROR - Error loading PDF files: name 'PyPDFLoader' is not defined
+2024-02-22 16:44:37,120 - ERROR - Error loading CSV files: name 'CSVLoader' is not defined
+2024-02-22 16:44:37,120 - INFO - Successfully loaded 4 documents.
+2024-02-22 16:46:27,598 - INFO - Starting document loading from ../data
+2024-02-22 16:46:28,100 - ERROR - Error loading DOCX files: 'DirectoryLoader' object has no attribute 'loaded_count'
+2024-02-22 16:46:28,100 - ERROR - Error loading TXT files: name 'TextLoader' is not defined
+2024-02-22 16:46:28,101 - ERROR - Error loading PDF files: name 'PyPDFLoader' is not defined
+2024-02-22 16:46:28,101 - ERROR - Error loading CSV files: name 'CSVLoader' is not defined
+2024-02-22 16:46:28,101 - INFO - Successfully loaded 5 documents.
+2024-02-22 16:48:34,022 - INFO - Starting document loading from ../data/Evaluation Sets/contract
+2024-02-22 16:48:34,307 - ERROR - Error loading DOCX files: 'DirectoryLoader' object has no attribute 'loaded_count'
+2024-02-22 16:48:34,307 - ERROR - Error loading TXT files: name 'TextLoader' is not defined
+2024-02-22 16:48:34,307 - ERROR - Error loading PDF files: name 'PyPDFLoader' is not defined
+2024-02-22 16:48:34,307 - ERROR - Error loading CSV files: name 'CSVLoader' is not defined
+2024-02-22 16:48:34,307 - INFO - Successfully loaded 1 documents.
+2024-02-22 16:55:12,264 - INFO - Starting document loading from ../data/Evaluation Sets/contract
+2024-02-22 16:55:12,568 - ERROR - Error loading DOCX files: 'DirectoryLoader' object has no attribute 'loaded_count'
+2024-02-22 16:55:12,568 - ERROR - Error loading TXT files: name 'TextLoader' is not defined
+2024-02-22 16:55:12,569 - ERROR - Error loading PDF files: name 'PyPDFLoader' is not defined
+2024-02-22 16:55:12,569 - ERROR - Error loading CSV files: name 'CSVLoader' is not defined
+2024-02-22 16:55:12,569 - INFO - Successfully loaded 1 documents.
+2024-02-22 17:28:02,369 - INFO - Starting document loading from ../data/Evaluation Sets/contract
+2024-02-22 17:28:03,241 - ERROR - Error loading DOCX files: 'DirectoryLoader' object has no attribute 'loaded_count'
+2024-02-22 17:28:03,241 - ERROR - Error loading TXT files: name 'TextLoader' is not defined
+2024-02-22 17:28:03,242 - ERROR - Error loading PDF files: name 'PyPDFLoader' is not defined
+2024-02-22 17:28:03,242 - ERROR - Error loading CSV files: name 'CSVLoader' is not defined
+2024-02-22 17:28:03,242 - INFO - Successfully loaded 1 documents.
+2024-02-22 18:26:26,635 - INFO - Starting document loading from ../data/Evaluation Sets/contract
+2024-02-22 18:26:27,547 - ERROR - Error loading DOCX files: 'DirectoryLoader' object has no attribute 'loaded_count'
+2024-02-22 18:26:27,547 - ERROR - Error loading TXT files: name 'TextLoader' is not defined
+2024-02-22 18:26:27,548 - ERROR - Error loading PDF files: name 'PyPDFLoader' is not defined
+2024-02-22 18:26:27,548 - ERROR - Error loading CSV files: name 'CSVLoader' is not defined
+2024-02-22 18:26:27,548 - INFO - Successfully loaded 1 documents.
+2024-02-22 18:30:25,645 - INFO - Starting document loading from ../data/Evaluation Sets/contract
+2024-02-22 18:30:25,856 - ERROR - Error loading DOCX files: 'DirectoryLoader' object has no attribute 'loaded_count'
+2024-02-22 18:30:25,857 - ERROR - Error loading TXT files: name 'TextLoader' is not defined
+2024-02-22 18:30:25,858 - ERROR - Error loading PDF files: name 'PyPDFLoader' is not defined
+2024-02-22 18:30:25,858 - ERROR - Error loading CSV files: name 'CSVLoader' is not defined
+2024-02-22 18:30:25,858 - INFO - Successfully loaded 1 documents.
+2024-02-22 18:50:44,970 - INFO - Backing off send_request(...) for 0.3s (requests.exceptions.ConnectionError: HTTPSConnectionPool(host='us-api.i.posthog.com', port=443): Max retries exceeded with url: /batch/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fcec8047690>: Failed to resolve 'us-api.i.posthog.com' ([Errno -2] Name or service not known)")))
+2024-02-22 18:53:38,291 - INFO - Starting document loading from ../data/Evaluation Sets/contract
+2024-02-22 18:53:38,742 - ERROR - Error loading DOCX files: 'DirectoryLoader' object has no attribute 'loaded_count'
+2024-02-22 18:53:38,742 - ERROR - Error loading TXT files: name 'TextLoader' is not defined
+2024-02-22 18:53:38,742 - ERROR - Error loading PDF files: name 'PyPDFLoader' is not defined
+2024-02-22 18:53:38,743 - ERROR - Error loading CSV files: name 'CSVLoader' is not defined
+2024-02-22 18:53:38,743 - INFO - Successfully loaded 1 documents.
+2024-02-22 19:00:52,609 - INFO - Starting document loading from ../data/Evaluation Sets/contract
+2024-02-22 19:00:53,037 - ERROR - Error loading DOCX files: 'DirectoryLoader' object has no attribute 'loaded_count'
+2024-02-22 19:00:53,038 - ERROR - Error loading TXT files: name 'TextLoader' is not defined
+2024-02-22 19:00:53,039 - ERROR - Error loading PDF files: name 'PyPDFLoader' is not defined
+2024-02-22 19:00:53,039 - ERROR - Error loading CSV files: name 'CSVLoader' is not defined
+2024-02-22 19:00:53,039 - INFO - Successfully loaded 1 documents.
+2024-02-22 22:22:16,111 - INFO - Starting document loading from ../data/Evaluation Sets/contract
+2024-02-22 22:22:16,725 - ERROR - Error loading DOCX files: 'DirectoryLoader' object has no attribute 'loaded_count'
+2024-02-22 22:22:16,726 - ERROR - Error loading TXT files: name 'TextLoader' is not defined
+2024-02-22 22:22:16,726 - ERROR - Error loading PDF files: name 'PyPDFLoader' is not defined
+2024-02-22 22:22:16,727 - ERROR - Error loading CSV files: name 'CSVLoader' is not defined
+2024-02-22 22:22:16,728 - INFO - Successfully loaded 1 documents.
+2024-02-22 22:36:08,562 - INFO - Starting document loading from ../data/Evaluation Sets/contract
+2024-02-22 22:36:09,536 - ERROR - Error loading DOCX files: 'DirectoryLoader' object has no attribute 'loaded_count'
+2024-02-22 22:36:09,537 - ERROR - Error loading TXT files: name 'TextLoader' is not defined
+2024-02-22 22:36:09,538 - ERROR - Error loading PDF files: name 'PyPDFLoader' is not defined
+2024-02-22 22:36:09,538 - ERROR - Error loading CSV files: name 'CSVLoader' is not defined
+2024-02-22 22:36:09,538 - INFO - Successfully loaded 1 documents.
+2024-02-22 22:38:57,048 - INFO - Starting document loading from ../data/Evaluation Sets/contract
+2024-02-22 22:38:57,642 - ERROR - Error loading DOCX files: 'DirectoryLoader' object has no attribute 'loaded_count'
+2024-02-22 22:38:57,642 - ERROR - Error loading TXT files: name 'TextLoader' is not defined
+2024-02-22 22:38:57,643 - ERROR - Error loading PDF files: name 'PyPDFLoader' is not defined
+2024-02-22 22:38:57,643 - ERROR - Error loading CSV files: name 'CSVLoader' is not defined
+2024-02-22 22:38:57,644 - INFO - Successfully loaded 1 documents.
+2024-02-22 22:54:09,348 - INFO - Starting document loading from ../data/Evaluation Sets/contract
+2024-02-22 22:54:09,850 - ERROR - Error loading DOCX files: 'DirectoryLoader' object has no attribute 'loaded_count'
+2024-02-22 22:54:09,851 - ERROR - Error loading TXT files: name 'TextLoader' is not defined
+2024-02-22 22:54:09,851 - ERROR - Error loading PDF files: name 'PyPDFLoader' is not defined
+2024-02-22 22:54:09,851 - ERROR - Error loading CSV files: name 'CSVLoader' is not defined
+2024-02-22 22:54:09,852 - INFO - Successfully loaded 1 documents.
+2024-02-22 23:12:15,751 - INFO - Starting document loading from ../data/Evaluation Sets/contract
+2024-02-22 23:12:16,276 - ERROR - Error loading DOCX files: 'DirectoryLoader' object has no attribute 'loaded_count'
+2024-02-22 23:12:16,277 - ERROR - Error loading TXT files: name 'TextLoader' is not defined
+2024-02-22 23:12:16,277 - ERROR - Error loading PDF files: name 'PyPDFLoader' is not defined
+2024-02-22 23:12:16,277 - ERROR - Error loading CSV files: name 'CSVLoader' is not defined
+2024-02-22 23:12:16,277 - INFO - Successfully loaded 1 documents.
+2024-02-22 23:12:37,903 - INFO - Backing off send_request(...) for 0.7s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us-api.i.posthog.com', port=443): Read timed out. (read timeout=15))
+2024-02-23 00:45:37,040 - INFO - Starting document loading from ../data/Evaluation Sets/contract
+2024-02-23 00:45:38,473 - ERROR - Error loading DOCX files: 'DirectoryLoader' object has no attribute 'loaded_count'
+2024-02-23 00:45:38,473 - ERROR - Error loading TXT files: name 'TextLoader' is not defined
+2024-02-23 00:45:38,474 - ERROR - Error loading PDF files: name 'PyPDFLoader' is not defined
+2024-02-23 00:45:38,474 - ERROR - Error loading CSV files: name 'CSVLoader' is not defined
+2024-02-23 00:45:38,474 - INFO - Successfully loaded 1 documents.
+2024-02-23 09:49:00,003 - INFO - Starting document loading from ../data/Evaluation Sets/contract
+2024-02-23 09:49:00,735 - ERROR - Error loading DOCX files: 'DirectoryLoader' object has no attribute 'loaded_count'
+2024-02-23 09:49:00,736 - ERROR - Error loading TXT files: name 'TextLoader' is not defined
+2024-02-23 09:49:00,736 - ERROR - Error loading PDF files: name 'PyPDFLoader' is not defined
+2024-02-23 09:49:00,736 - ERROR - Error loading CSV files: name 'CSVLoader' is not defined
+2024-02-23 09:49:00,737 - INFO - Successfully loaded 1 documents.
+2024-02-23 09:49:06,140 - INFO - Backing off send_request(...) for 0.8s (requests.exceptions.ConnectionError: HTTPSConnectionPool(host='us-api.i.posthog.com', port=443): Max retries exceeded with url: /batch/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1a2d73bb50>: Failed to resolve 'us-api.i.posthog.com' ([Errno -2] Name or service not known)")))
+2024-02-23 10:08:56,725 - INFO - Starting document loading from ../data/Evaluation Sets/contract
+2024-02-23 10:08:56,871 - ERROR - Error loading DOCX files: 'DirectoryLoader' object has no attribute 'loaded_count'
+2024-02-23 10:08:56,871 - ERROR - Error loading TXT files: name 'TextLoader' is not defined
+2024-02-23 10:08:56,871 - ERROR - Error loading PDF files: name 'PyPDFLoader' is not defined
+2024-02-23 10:08:56,871 - ERROR - Error loading CSV files: name 'CSVLoader' is not defined
+2024-02-23 10:08:56,871 - INFO - Successfully loaded 1 documents.
+2024-02-24 12:05:54,920 - INFO - Document loaded successfully
+2024-02-24 12:06:03,893 - INFO - Document loaded successfully
+2024-02-24 12:16:01,945 - INFO - Document loaded successfully
+2024-02-24 12:17:07,853 - INFO - Documents split successfully
+2024-02-24 12:19:02,892 - INFO - Documents split successfully
+2024-02-24 12:19:11,006 - INFO - Documents split successfully
+2024-02-24 12:19:47,122 - INFO - Document loaded successfully
+2024-02-24 12:19:51,645 - INFO - Documents split successfully
+2024-02-24 12:21:18,780 - INFO - Document loaded successfully
+2024-02-24 12:21:23,632 - INFO - Documents split successfully
+2024-02-24 12:21:33,253 - INFO - Documents split successfully
+2024-02-24 12:22:41,737 - INFO - Embeddings created successfully
+2024-02-24 12:24:20,141 - INFO - Using existing vector store
+2024-02-24 12:25:30,063 - INFO - Vector store created successfully
+2024-02-24 12:30:12,824 - ERROR - Error creating QA system: Got unsupported chain type: question_answering. Should be one of dict_keys(['stuff', 'map_reduce', 'refine', 'map_rerank'])
+2024-02-24 12:30:45,042 - ERROR - Error creating QA system: Got unsupported chain type: question_answering. Should be one of dict_keys(['stuff', 'map_reduce', 'refine', 'map_rerank'])
+2024-02-24 12:30:59,949 - ERROR - Error creating QA system: Got unsupported chain type: question_answering. Should be one of dict_keys(['stuff', 'map_reduce', 'refine', 'map_rerank'])
+2024-02-24 12:31:22,832 - INFO - Document loaded successfully
+2024-02-24 12:31:31,534 - INFO - Documents split successfully
+2024-02-24 12:31:36,061 - INFO - Embeddings created successfully
+2024-02-24 12:31:42,262 - INFO - Vector store created successfully
+2024-02-24 12:32:12,233 - ERROR - Error creating QA system: 1 validation error for RetrievalQA
+retriever
+  value is not a valid dict (type=type_error.dict)
+2024-02-24 12:39:28,920 - INFO - Document loaded successfully
+2024-02-24 12:39:32,325 - INFO - Documents split successfully
+2024-02-24 12:39:40,771 - INFO - Embeddings created successfully
+2024-02-24 12:39:48,078 - INFO - Vector store created successfully
+2024-02-24 12:40:21,294 - INFO - Retriever created successfully
+2024-02-24 12:41:26,827 - INFO - QA system created successfully
+2024-02-24 12:47:27,342 - INFO - Document loaded successfully
+2024-02-24 12:47:27,342 - INFO - Document loaded successfully
+2024-02-24 12:47:32,914 - INFO - Documents split successfully
+2024-02-24 12:47:32,914 - INFO - Documents split successfully
+2024-02-24 12:47:36,130 - INFO - Embeddings created successfully
+2024-02-24 12:47:36,130 - INFO - Embeddings created successfully
+2024-02-24 12:47:38,824 - INFO - Embeddings created successfully
+2024-02-24 12:47:38,824 - INFO - Embeddings created successfully
+2024-02-24 12:47:46,925 - INFO - Vector store created successfully
+2024-02-24 12:47:46,925 - INFO - Vector store created successfully
+2024-02-24 12:47:54,068 - INFO - Retriever created successfully
+2024-02-24 12:47:54,068 - INFO - Retriever created successfully
+2024-02-24 12:49:21,884 - INFO - QA system created successfully
+2024-02-24 12:49:21,884 - INFO - QA system created successfully
+2024-02-24 13:05:34,505 - INFO - Documents split successfully
+2024-02-24 13:05:34,505 - INFO - Documents split successfully
+2024-02-24 13:05:44,798 - INFO - Documents split successfully
+2024-02-24 13:05:44,798 - INFO - Documents split successfully
+2024-02-24 13:37:07,314 - INFO - Document loaded successfully
+2024-02-24 13:37:07,314 - INFO - Document loaded successfully
+2024-02-24 13:37:07,596 - INFO - Documents split successfully
+2024-02-24 13:37:07,596 - INFO - Documents split successfully
+2024-02-24 13:37:07,858 - INFO - Embeddings created successfully
+2024-02-24 13:37:07,858 - INFO - Embeddings created successfully
+2024-02-24 13:37:16,520 - INFO - Vector store created successfully
+2024-02-24 13:37:16,520 - INFO - Vector store created successfully
+2024-02-24 13:37:16,529 - INFO - Retriever created successfully
+2024-02-24 13:37:16,529 - INFO - Retriever created successfully
+2024-02-24 13:37:17,027 - INFO - QA system created successfully
+2024-02-24 13:37:17,027 - INFO - QA system created successfully
+2024-02-24 13:52:05,226 - INFO - Document loaded successfully
+2024-02-24 13:52:05,226 - INFO - Document loaded successfully
+2024-02-24 13:52:16,079 - INFO - Documents split successfully
+2024-02-24 13:52:16,079 - INFO - Documents split successfully
+2024-02-24 13:52:24,329 - INFO - Embeddings created successfully
+2024-02-24 13:52:24,329 - INFO - Embeddings created successfully
+2024-02-24 13:52:45,870 - INFO - Vector store created successfully
+2024-02-24 13:52:45,870 - INFO - Vector store created successfully
+2024-02-24 13:52:52,105 - INFO - Retriever created successfully
+2024-02-24 13:52:52,105 - INFO - Retriever created successfully
+2024-02-24 13:53:25,995 - INFO - QA system created successfully
+2024-02-24 13:53:25,995 - INFO - QA system created successfully
+2024-02-24 13:56:20,912 - INFO - Documents split successfully
+2024-02-24 13:56:20,912 - INFO - Documents split successfully
+2024-02-24 13:56:31,174 - INFO - Embeddings created successfully
+2024-02-24 13:56:31,174 - INFO - Embeddings created successfully
+2024-02-24 13:56:37,768 - INFO - Vector store created successfully
+2024-02-24 13:56:37,768 - INFO - Vector store created successfully
+2024-02-24 13:56:43,889 - INFO - QA system created successfully
+2024-02-24 13:56:43,889 - INFO - QA system created successfully
+2024-02-24 13:57:48,814 - INFO - Documents split successfully
+2024-02-24 13:57:48,814 - INFO - Documents split successfully
+2024-02-24 13:57:58,243 - INFO - Documents split successfully
+2024-02-24 13:57:58,243 - INFO - Documents split successfully
+2024-02-24 13:58:06,254 - INFO - Embeddings created successfully
+2024-02-24 13:58:06,254 - INFO - Embeddings created successfully
+2024-02-24 13:58:11,565 - INFO - Vector store created successfully
+2024-02-24 13:58:11,565 - INFO - Vector store created successfully
+2024-02-24 13:58:19,463 - INFO - Retriever created successfully
+2024-02-24 13:58:19,463 - INFO - Retriever created successfully
+2024-02-24 13:58:28,443 - INFO - QA system created successfully
+2024-02-24 13:58:28,443 - INFO - QA system created successfully
+2024-02-24 14:00:31,034 - INFO - Document loaded successfully
+2024-02-24 14:00:31,034 - INFO - Document loaded successfully
+2024-02-24 14:01:27,940 - INFO - Documents split successfully
+2024-02-24 14:01:27,940 - INFO - Documents split successfully
+2024-02-24 14:03:01,392 - INFO - Documents split successfully
+2024-02-24 14:03:01,392 - INFO - Documents split successfully
+2024-02-24 14:03:15,663 - INFO - Documents split successfully
+2024-02-24 14:03:15,663 - INFO - Documents split successfully
+2024-02-24 14:03:35,734 - INFO - Documents split successfully
+2024-02-24 14:03:35,734 - INFO - Documents split successfully
+2024-02-24 14:03:43,210 - INFO - Embeddings created successfully
+2024-02-24 14:03:43,210 - INFO - Embeddings created successfully
+2024-02-24 14:03:53,809 - INFO - Vector store created successfully
+2024-02-24 14:03:53,809 - INFO - Vector store created successfully
+2024-02-24 14:04:03,248 - INFO - Retriever created successfully
+2024-02-24 14:04:03,248 - INFO - Retriever created successfully
+2024-02-24 14:04:10,594 - INFO - QA system created successfully
+2024-02-24 14:04:10,594 - INFO - QA system created successfully
+2024-02-24 14:05:11,947 - INFO - Documents split successfully
+2024-02-24 14:05:11,947 - INFO - Documents split successfully
+2024-02-24 14:05:22,868 - INFO - Documents split successfully
+2024-02-24 14:05:22,868 - INFO - Documents split successfully
+2024-02-24 14:05:38,081 - INFO - Retriever created successfully
+2024-02-24 14:05:38,081 - INFO - Retriever created successfully
+2024-02-24 14:07:37,625 - INFO - Documents split successfully
+2024-02-24 14:07:37,625 - INFO - Documents split successfully
+2024-02-24 14:07:55,161 - INFO - Embeddings created successfully
+2024-02-24 14:07:55,161 - INFO - Embeddings created successfully
+2024-02-24 14:08:02,026 - INFO - Vector store created successfully
+2024-02-24 14:08:02,026 - INFO - Vector store created successfully
+2024-02-24 14:08:16,819 - INFO - QA system created successfully
+2024-02-24 14:08:16,819 - INFO - QA system created successfully
+2024-02-24 14:12:08,296 - ERROR - Error splitting documents: Invalid splitter type: CharacterTextSplitter
+2024-02-24 14:12:08,296 - ERROR - Error splitting documents: Invalid splitter type: CharacterTextSplitter
+2024-02-24 14:13:45,116 - ERROR - Error splitting documents: Invalid splitter type: CharacterTextSplitter
+2024-02-24 14:13:45,116 - ERROR - Error splitting documents: Invalid splitter type: CharacterTextSplitter
+2024-02-24 14:13:54,729 - INFO - Document loaded successfully
+2024-02-24 14:13:54,729 - INFO - Document loaded successfully
+2024-02-24 14:13:54,815 - ERROR - Error splitting documents: Invalid splitter type: CharacterTextSplitter
+2024-02-24 14:13:54,815 - ERROR - Error splitting documents: Invalid splitter type: CharacterTextSplitter
+2024-02-24 14:14:09,774 - INFO - Document loaded successfully
+2024-02-24 14:14:09,774 - INFO - Document loaded successfully
+2024-02-24 14:14:10,018 - INFO - Documents split successfully
+2024-02-24 14:14:10,018 - INFO - Documents split successfully
+2024-02-24 14:14:10,263 - INFO - Embeddings created successfully
+2024-02-24 14:14:10,263 - INFO - Embeddings created successfully
+2024-02-24 14:14:14,152 - INFO - Vector store created successfully
+2024-02-24 14:14:14,152 - INFO - Vector store created successfully
+2024-02-24 14:14:14,292 - INFO - Retriever created successfully
+2024-02-24 14:14:14,292 - INFO - Retriever created successfully
+2024-02-24 14:14:15,071 - INFO - QA system created successfully
+2024-02-24 14:14:15,071 - INFO - QA system created successfully
+2024-02-24 14:21:10,871 - INFO - Retriever created successfully
+2024-02-24 14:21:10,871 - INFO - Retriever created successfully
+2024-02-24 14:22:02,166 - INFO - Retriever created successfully
+2024-02-24 14:22:02,166 - INFO - Retriever created successfully
+2024-02-24 14:22:10,057 - INFO - QA system created successfully
+2024-02-24 14:22:10,057 - INFO - QA system created successfully
+2024-02-24 14:24:56,425 - INFO - Documents split successfully
+2024-02-24 14:24:56,425 - INFO - Documents split successfully
+2024-02-24 14:25:05,003 - INFO - Embeddings created successfully
+2024-02-24 14:25:05,003 - INFO - Embeddings created successfully
+2024-02-24 14:25:12,138 - INFO - Retriever created successfully
+2024-02-24 14:25:12,138 - INFO - Retriever created successfully
+2024-02-24 14:25:12,626 - INFO - QA system created successfully
+2024-02-24 14:25:12,626 - INFO - QA system created successfully
+2024-02-24 15:21:24,160 - INFO - Document loaded successfully
+2024-02-24 15:21:24,160 - INFO - Document loaded successfully
+2024-02-24 15:21:24,395 - INFO - Documents split successfully
+2024-02-24 15:21:24,395 - INFO - Documents split successfully
+2024-02-24 15:22:19,615 - INFO - Document loaded successfully
+2024-02-24 15:22:19,615 - INFO - Document loaded successfully
+2024-02-24 15:22:19,914 - INFO - Documents split successfully
+2024-02-24 15:22:19,914 - INFO - Documents split successfully
+2024-02-24 15:23:03,789 - INFO - Retriever created successfully
+2024-02-24 15:23:03,789 - INFO - Retriever created successfully
+2024-02-24 15:23:04,452 - INFO - QA system created successfully
+2024-02-24 15:23:04,452 - INFO - QA system created successfully
+2024-02-24 15:43:35,816 - INFO - Document loaded successfully
+2024-02-24 15:43:35,816 - INFO - Document loaded successfully
+2024-02-24 15:43:43,829 - INFO - Documents split successfully
+2024-02-24 15:43:43,829 - INFO - Documents split successfully
+2024-02-24 15:52:14,152 - INFO - QA system created successfully
+2024-02-24 15:52:14,152 - INFO - QA system created successfully
+2024-02-24 15:54:07,918 - INFO - Document loaded successfully
+2024-02-24 15:54:07,918 - INFO - Document loaded successfully
+2024-02-24 15:54:08,294 - INFO - Documents split successfully
+2024-02-24 15:54:08,294 - INFO - Documents split successfully
+2024-02-24 16:00:17,573 - INFO - QA system created successfully
+2024-02-24 16:00:17,573 - INFO - QA system created successfully
+2024-02-24 16:02:03,426 - INFO - QA system created successfully
+2024-02-24 16:02:03,426 - INFO - QA system created successfully
+2024-02-24 16:06:41,537 - ERROR - Error splitting documents: Invalid splitter type: recursive_character
+2024-02-24 16:06:41,537 - ERROR - Error splitting documents: Invalid splitter type: recursive_character
+2024-02-24 16:06:55,845 - ERROR - Error splitting documents: Invalid splitter type: Recursive_character
+2024-02-24 16:06:55,845 - ERROR - Error splitting documents: Invalid splitter type: Recursive_character
+2024-02-24 16:08:18,246 - INFO - Document loaded successfully
+2024-02-24 16:08:18,246 - INFO - Document loaded successfully
+2024-02-24 16:08:18,376 - ERROR - Error splitting documents: Invalid splitter type: Recursive_character
+2024-02-24 16:08:18,376 - ERROR - Error splitting documents: Invalid splitter type: Recursive_character
+2024-02-24 16:21:37,087 - INFO - Documents split successfully
+2024-02-24 16:21:37,087 - INFO - Documents split successfully
+2024-02-24 16:21:43,104 - INFO - Documents split successfully
+2024-02-24 16:21:43,104 - INFO - Documents split successfully
+2024-02-24 16:22:01,578 - INFO - Document loaded successfully
+2024-02-24 16:22:01,578 - INFO - Document loaded successfully
+2024-02-24 16:22:01,824 - INFO - Documents split successfully
+2024-02-24 16:22:01,824 - INFO - Documents split successfully
+2024-02-24 16:30:35,016 - INFO - QA system created successfully
+2024-02-24 16:30:35,016 - INFO - QA system created successfully
+2024-02-24 16:34:06,646 - ERROR - Error loading document: File path ../data/Evaluation Sets/Raptor Contract is not a valid file or url
+2024-02-24 16:34:06,646 - ERROR - Error loading document: File path ../data/Evaluation Sets/Raptor Contract is not a valid file or url
+2024-02-24 16:34:26,285 - INFO - Document loaded successfully
+2024-02-24 16:34:26,285 - INFO - Document loaded successfully
+2024-02-24 16:34:31,454 - INFO - Document loaded successfully
+2024-02-24 16:34:31,454 - INFO - Document loaded successfully
+2024-02-24 16:34:31,571 - INFO - Documents split successfully
+2024-02-24 16:34:31,571 - INFO - Documents split successfully
+2024-02-24 16:34:31,874 - INFO - Embeddings created successfully
+2024-02-24 16:34:31,874 - INFO - Embeddings created successfully
+2024-02-24 16:34:39,396 - INFO - Vector store created successfully
+2024-02-24 16:34:39,396 - INFO - Vector store created successfully
+2024-02-24 16:34:39,407 - INFO - Retriever created successfully
+2024-02-24 16:34:39,407 - INFO - Retriever created successfully
+2024-02-24 16:34:40,256 - INFO - QA system created successfully
+2024-02-24 16:34:40,256 - INFO - QA system created successfully
+2024-02-24 16:35:42,906 - INFO - Documents split successfully
+2024-02-24 16:35:42,906 - INFO - Documents split successfully
+2024-02-24 16:35:43,251 - INFO - Embeddings created successfully
+2024-02-24 16:35:43,251 - INFO - Embeddings created successfully
+2024-02-24 16:35:48,448 - INFO - Vector store created successfully
+2024-02-24 16:35:48,448 - INFO - Vector store created successfully
+2024-02-24 16:35:48,471 - INFO - Retriever created successfully
+2024-02-24 16:35:48,471 - INFO - Retriever created successfully
+2024-02-24 16:35:49,384 - INFO - QA system created successfully
+2024-02-24 16:35:49,384 - INFO - QA system created successfully
+2024-02-24 16:36:14,647 - INFO - Documents split successfully
+2024-02-24 16:36:14,647 - INFO - Documents split successfully
+2024-02-24 16:36:39,494 - INFO - Documents split successfully
+2024-02-24 16:36:39,494 - INFO - Documents split successfully
+2024-02-24 16:37:16,627 - INFO - Embeddings created successfully
+2024-02-24 16:37:16,627 - INFO - Embeddings created successfully
+2024-02-24 16:37:21,218 - INFO - Vector store created successfully
+2024-02-24 16:37:21,218 - INFO - Vector store created successfully
+2024-02-24 16:37:21,258 - INFO - Retriever created successfully
+2024-02-24 16:37:21,258 - INFO - Retriever created successfully
+2024-02-24 16:37:22,157 - INFO - QA system created successfully
+2024-02-24 16:37:22,157 - INFO - QA system created successfully
+2024-02-24 16:37:50,359 - INFO - Documents split successfully
+2024-02-24 16:37:50,359 - INFO - Documents split successfully
+2024-02-24 16:37:52,308 - INFO - Documents split successfully
+2024-02-24 16:37:52,308 - INFO - Documents split successfully
+2024-02-24 16:37:53,599 - INFO - Embeddings created successfully
+2024-02-24 16:37:53,599 - INFO - Embeddings created successfully
+2024-02-24 16:37:57,679 - INFO - Vector store created successfully
+2024-02-24 16:37:57,679 - INFO - Vector store created successfully
+2024-02-24 16:37:57,707 - INFO - Retriever created successfully
+2024-02-24 16:37:57,707 - INFO - Retriever created successfully
+2024-02-24 16:37:58,414 - INFO - QA system created successfully
+2024-02-24 16:37:58,414 - INFO - QA system created successfully
+2024-02-24 16:41:46,089 - INFO - Vector store created successfully
+2024-02-24 16:41:46,089 - INFO - Vector store created successfully
+2024-02-24 16:41:46,536 - INFO - Retriever created successfully
+2024-02-24 16:41:46,536 - INFO - Retriever created successfully
+2024-02-24 16:41:47,808 - INFO - QA system created successfully
+2024-02-24 16:41:47,808 - INFO - QA system created successfully
+2024-02-24 16:47:42,073 - INFO - Document loaded successfully
+2024-02-24 16:47:42,073 - INFO - Document loaded successfully
+2024-02-24 16:47:42,498 - INFO - Documents split successfully
+2024-02-24 16:47:42,498 - INFO - Documents split successfully
+2024-02-24 16:47:42,912 - INFO - Embeddings created successfully
+2024-02-24 16:47:42,912 - INFO - Embeddings created successfully
+2024-02-24 16:50:17,975 - INFO - Vector store created successfully
+2024-02-24 16:50:17,975 - INFO - Vector store created successfully
+2024-02-24 16:50:18,030 - INFO - Retriever created successfully
+2024-02-24 16:50:18,030 - INFO - Retriever created successfully
+2024-02-24 16:50:20,045 - INFO - QA system created successfully
+2024-02-24 16:50:20,045 - INFO - QA system created successfully
+2024-02-24 17:00:44,832 - INFO - Document loaded successfully
+2024-02-24 17:00:44,832 - INFO - Document loaded successfully
+2024-02-24 17:14:53,533 - INFO - Document loaded successfully
+2024-02-24 17:14:53,533 - INFO - Document loaded successfully
+2024-02-24 17:48:07,569 - INFO - Document loaded successfully
+2024-02-24 17:48:07,663 - INFO - Document loaded successfully
+2024-02-24 18:17:21,746 - INFO - Document loaded successfully
+2024-02-24 18:17:21,878 - INFO - Document loaded successfully
+2024-02-24 21:52:50,064 - INFO - Document loaded successfully
+2024-02-24 21:52:50,258 - INFO - Document loaded successfully
+2024-02-25 12:40:42,102 - INFO - Document loaded successfully
+2024-02-25 12:40:42,423 - INFO - Document loaded successfully
+2024-02-25 12:53:32,982 - INFO - Document loaded successfully
+2024-02-25 12:53:33,130 - INFO - Document loaded successfully
+2024-02-25 22:31:07,507 - INFO - Document loaded successfully
+2024-02-25 22:31:07,636 - INFO - Document loaded successfully
+2024-02-25 23:04:53,793 - INFO - Document loaded successfully
+2024-02-25 23:04:53,883 - INFO - Document loaded successfully
+2024-02-26 21:40:22,752 - INFO - Document loaded successfully
+2024-02-26 21:40:23,055 - INFO - Document loaded successfully
+2024-02-26 21:41:04,107 - INFO - Document loaded successfully
+2024-02-26 21:41:04,134 - INFO - Document loaded successfully
+2024-02-26 21:41:52,256 - INFO - Document loaded successfully
+2024-02-26 21:41:52,447 - INFO - Document loaded successfully
+2024-02-26 21:45:11,245 - INFO - Document loaded successfully
+2024-02-26 21:45:11,279 - INFO - Document loaded successfully
+2024-02-26 22:05:31,511 - INFO - Document loaded successfully
+2024-02-26 22:05:31,569 - INFO - Document loaded successfully
+2024-02-26 22:06:48,481 - INFO - Document loaded successfully
+2024-02-26 22:06:48,511 - INFO - Document loaded successfully
+2024-02-26 22:10:04,315 - INFO - Document loaded successfully
+2024-02-26 22:10:04,449 - INFO - Document loaded successfully
+2024-02-26 23:11:39,590 - INFO - Document loaded successfully
+2024-02-26 23:11:39,804 - INFO - Document loaded successfully
+2024-02-26 23:28:08,031 - INFO - Document loaded successfully
+2024-02-26 23:28:08,124 - INFO - Document loaded successfully
+2024-02-27 00:03:50,913 - INFO - Document loaded successfully
+2024-02-27 00:03:51,056 - INFO - Document loaded successfully
+2024-02-27 00:06:39,715 - INFO - Document loaded successfully
+2024-02-27 00:06:39,732 - INFO - Document loaded successfully
+2024-02-27 00:07:25,844 - INFO - Document loaded successfully
+2024-02-27 00:07:26,003 - INFO - Document loaded successfully
+2024-02-27 00:09:58,493 - INFO - Document loaded successfully
+2024-02-27 00:09:58,509 - INFO - Document loaded successfully
+2024-02-27 00:14:46,295 - INFO - Document loaded successfully
+2024-02-27 00:14:46,312 - INFO - Document loaded successfully
+2024-02-27 00:16:08,482 - INFO - Document loaded successfully
+2024-02-27 00:16:08,498 - INFO - Document loaded successfully
+2024-02-27 00:26:23,229 - INFO - Document loaded successfully
+2024-02-27 00:26:23,244 - INFO - Document loaded successfully
+2024-02-27 09:56:53,097 - INFO - Document loaded successfully
+2024-02-27 09:56:53,337 - INFO - Document loaded successfully
+2024-02-27 10:40:54,177 - INFO - Document loaded successfully
+2024-02-27 10:40:54,353 - INFO - Document loaded successfully
+2024-02-27 10:41:59,748 - INFO - Document loaded successfully
+2024-02-27 10:41:59,780 - INFO - Document loaded successfully
+2024-03-05 21:19:36,605 - INFO - Document loaded successfully
+2024-03-05 21:19:36,761 - INFO - Document loaded successfully
+2024-03-05 21:33:11,023 - INFO - Document loaded successfully
+2024-03-05 21:33:11,050 - INFO - Document loaded successfully
+2024-03-09 11:16:12,578 - INFO - Document loaded successfully
+2024-03-09 11:16:12,744 - INFO - Document loaded successfully
+2024-03-09 12:11:04,268 - INFO - Document loaded successfully
+2024-03-09 12:11:04,314 - INFO - Document loaded successfully
+2024-03-09 13:06:31,651 - INFO - Document loaded successfully
+2024-03-09 13:06:31,669 - INFO - Document loaded successfully
+2024-03-09 13:07:18,131 - INFO - Document loaded successfully
+2024-03-09 13:07:18,155 - INFO - Document loaded successfully
+2024-03-09 13:40:12,320 - INFO - Document loaded successfully
+2024-03-09 13:40:12,340 - INFO - Document loaded successfully
+2024-03-09 15:23:35,293 - INFO - Document loaded successfully
+2024-03-09 15:23:35,460 - INFO - Document loaded successfully
+2024-03-09 16:17:28,604 - INFO - Document loaded successfully
+2024-03-09 16:17:28,728 - INFO - Document loaded successfully
+2024-06-07 15:05:32,836 - INFO - Document loaded successfully
+2024-06-07 15:05:33,013 - INFO - Document loaded successfully

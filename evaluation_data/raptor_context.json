@@ -1,0 +1,26 @@
+ [
+    {"question": "Under what circumstances and to what extent are the sellers responsible for a breach of representations and warranties?",
+     "answer": "Except in the case of fraud, the sellers have no liability for breach of representations and warranties (See Section 10.01)"},
+    {"question": "Are Change of Control Payments considered a Seller Transaction Expense? ?",
+     "answer": "Yes. (See defining of Sellers Transaction Expenses)."},
+    {"question": "How much is the escrow amount?",
+     "answer": "The escrow amount is equal to $1,000,000."},
+    {
+        "question": "WHO ARE THE PARTIES TO THE AGREEMENT AND WHAT ARE THEIR DEFINED NAMES?",
+        "answer": "CLOUD INVESTMENTS LTD. (\"COMPANY\") AND JACK ROBINSON (\"ADVISOR\")"
+    },
+    {
+        "question": "WHAT IS THE TERMINATION NOTICE?",
+        "answer": "According to section 4: 14 days for convenience by both parties. The Company may terminate without notice if the Advisor refuses or cannot perform the Services or is in breach of any provision of this Agreement."
+    },
+    {
+        "question": "What are the payments to the Advisor under the Agreement?",
+        "answer": "According to section 6: 1. Fees of $9 per hour up to a monthly limit of $1,500, 2. Workspace expense of $100 per month, 3. Other reasonable and actual expenses if approved by the company in writing and in advance."
+    }, 
+    {"question": "Who owns the IP? ",
+     "answer": "According to section 4 of the Undertaking (Appendix A), Any Work Product, upon creation, shall be fully and exclusively owned by the Company."},
+    {"question": "What is the purpose of the escrow?",
+     "answer": "To serve as a recourse of the Buyer in case of post-closing adjustments of the purchase price. (See section 2.07(e))."},
+    {"question": "May the Escrow Amount serve as a recourse for the Buyer in case of breach of representations by the Company?",
+     "answer": "No"}
+]

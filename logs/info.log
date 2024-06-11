@@ -1,0 +1,454 @@
+Starting document loading from ../data/Evaluation Sets/Raptor Contract.docx
+Successfully loaded 0 documents.
+Starting document loading from ../data/Evaluation Sets/'Raptor Contract'.docx
+Starting document loading from ../data/Evaluation Sets/'Raptor Contract'.docx
+Successfully loaded 0 documents.
+Successfully loaded 0 documents.
+Starting document loading from ../data/Evaluation Sets/Raptor Contract.docx
+Starting document loading from ../data/Evaluation Sets/Raptor Contract.docx
+Starting document loading from ../data/Evaluation Sets/Raptor Contract.docx
+Successfully loaded 0 documents.
+Successfully loaded 0 documents.
+Successfully loaded 0 documents.
+Starting document loading from ../data/'Evaluation Sets/''Raptor Contract.docx'
+Starting document loading from ../data/'Evaluation Sets/''Raptor Contract.docx'
+Starting document loading from ../data/'Evaluation Sets/''Raptor Contract.docx'
+Starting document loading from ../data/'Evaluation Sets/''Raptor Contract.docx'
+Successfully loaded 0 documents.
+Successfully loaded 0 documents.
+Successfully loaded 0 documents.
+Successfully loaded 0 documents.
+Starting document loading from ../data/'Evaluation Sets/''Raptor Contract.docx'
+Successfully loaded 0 documents.
+Starting document loading from /home/elias/Documents/10 Academy/WEEK 11/LegalAI-RAG-Contract-Advisor/data/Evaluation Sets/Raptor Contract.docx
+Starting document loading from /home/elias/Documents/10 Academy/WEEK 11/LegalAI-RAG-Contract-Advisor/data/Evaluation Sets/Raptor Contract.docx
+Successfully loaded 0 documents.
+Successfully loaded 0 documents.
+Starting document loading from /home/elias/Documents/10 Academy/WEEK 11/LegalAI-RAG-Contract-Advisor/data/job_status.csv
+Starting document loading from /home/elias/Documents/10 Academy/WEEK 11/LegalAI-RAG-Contract-Advisor/data/job_status.csv
+Starting document loading from /home/elias/Documents/10 Academy/WEEK 11/LegalAI-RAG-Contract-Advisor/data/job_status.csv
+Successfully loaded 0 documents.
+Successfully loaded 0 documents.
+Successfully loaded 0 documents.
+Starting document loading from /home/elias/Documents/10 Academy/WEEK 11/LegalAI-RAG-Contract-Advisor/data/job_status.csv
+Successfully loaded 0 documents.
+Starting document loading from ../data/Evaluation Sets/Raptor Contract.docx
+Starting document loading from ../data/Evaluation Sets/Raptor Contract.docx
+Successfully loaded 0 documents.
+Successfully loaded 0 documents.
+Starting document loading from ../data/Evaluation Sets/Raptor Contract.docx
+Successfully loaded 0 documents.
+Starting document loading from ../data/
+Starting document loading from ../data/
+Successfully loaded 0 documents.
+Successfully loaded 0 documents.
+Starting document loading from ../data/
+Successfully loaded 0 documents.
+Starting document loading from ../data/
+Successfully loaded 0 documents.
+Starting document loading from ../data/Evaluation Sets/Raptor Contract.docx
+Starting document loading from ../data/Evaluation Sets/Raptor Contract.docx
+Successfully loaded 0 documents.
+Successfully loaded 0 documents.
+Starting document loading from ../data/Evaluation Sets/Raptor Contract.docx
+Successfully loaded 0 documents.
+Starting document loading from ../data/Evaluation Sets
+Starting document loading from ../data/Evaluation Sets
+Successfully loaded 4 documents.
+Successfully loaded 4 documents.
+Starting document loading from ../data/Evaluation Sets
+Successfully loaded 8 documents.
+Starting document loading from ../data/Evaluation Sets
+Starting document loading from ../data/Evaluation Sets
+Successfully loaded 8 documents.
+Successfully loaded 8 documents.
+Starting document loading from ../data/Evaluation Sets
+Successfully loaded 4 documents.
+Starting document loading from ../data
+Starting document loading from ../data
+Successfully loaded 5 documents.
+Successfully loaded 5 documents.
+Starting document loading from ../data/Evaluation Sets/contract
+Starting document loading from ../data/Evaluation Sets/contract
+Starting document loading from ../data/Evaluation Sets/contract
+Successfully loaded 1 documents.
+Successfully loaded 1 documents.
+Successfully loaded 1 documents.
+Starting document loading from ../data/Evaluation Sets/contract
+Successfully loaded 1 documents.
+Starting document loading from ../data/Evaluation Sets/contract
+Successfully loaded 1 documents.
+Starting document loading from ../data/Evaluation Sets/contract
+Successfully loaded 1 documents.
+Starting document loading from ../data/Evaluation Sets/contract
+Successfully loaded 1 documents.
+Starting document loading from ../data/Evaluation Sets/contract
+Successfully loaded 1 documents.
+Starting document loading from ../data/Evaluation Sets/contract
+Successfully loaded 1 documents.
+Starting document loading from ../data/Evaluation Sets/contract
+Starting document loading from ../data/Evaluation Sets/contract
+Successfully loaded 1 documents.
+Successfully loaded 1 documents.
+Starting document loading from ../data/Evaluation Sets/contract
+Successfully loaded 1 documents.
+Starting document loading from ../data/Evaluation Sets/contract
+Successfully loaded 1 documents.
+Starting document loading from ../data/Evaluation Sets/contract
+Successfully loaded 1 documents.
+Starting document loading from ../data/Evaluation Sets/contract
+Successfully loaded 1 documents.
+Starting document loading from ../data/Evaluation Sets/contract
+Successfully loaded 1 documents.
+Starting document loading from ../data/Evaluation Sets/contract
+Successfully loaded 1 documents.
+Starting document loading from ../data/Evaluation Sets/contract
+Starting document loading from ../data/Evaluation Sets/contract
+Successfully loaded 1 documents.
+Successfully loaded 1 documents.
+2024-02-24 12:05:54,920 - INFO - Document loaded successfully
+2024-02-24 12:06:03,893 - INFO - Document loaded successfully
+2024-02-24 12:16:01,945 - INFO - Document loaded successfully
+2024-02-24 12:17:07,853 - INFO - Documents split successfully
+2024-02-24 12:19:02,892 - INFO - Documents split successfully
+2024-02-24 12:19:11,006 - INFO - Documents split successfully
+2024-02-24 12:19:47,122 - INFO - Document loaded successfully
+2024-02-24 12:19:51,645 - INFO - Documents split successfully
+2024-02-24 12:21:18,780 - INFO - Document loaded successfully
+2024-02-24 12:21:23,632 - INFO - Documents split successfully
+2024-02-24 12:21:33,253 - INFO - Documents split successfully
+2024-02-24 12:22:41,737 - INFO - Embeddings created successfully
+2024-02-24 12:24:20,141 - INFO - Using existing vector store
+2024-02-24 12:25:30,063 - INFO - Vector store created successfully
+2024-02-24 12:30:12,824 - ERROR - Error creating QA system: Got unsupported chain type: question_answering. Should be one of dict_keys(['stuff', 'map_reduce', 'refine', 'map_rerank'])
+2024-02-24 12:30:45,042 - ERROR - Error creating QA system: Got unsupported chain type: question_answering. Should be one of dict_keys(['stuff', 'map_reduce', 'refine', 'map_rerank'])
+2024-02-24 12:30:59,949 - ERROR - Error creating QA system: Got unsupported chain type: question_answering. Should be one of dict_keys(['stuff', 'map_reduce', 'refine', 'map_rerank'])
+2024-02-24 12:31:22,832 - INFO - Document loaded successfully
+2024-02-24 12:31:31,534 - INFO - Documents split successfully
+2024-02-24 12:31:36,061 - INFO - Embeddings created successfully
+2024-02-24 12:31:42,262 - INFO - Vector store created successfully
+2024-02-24 12:32:12,233 - ERROR - Error creating QA system: 1 validation error for RetrievalQA
+retriever
+  value is not a valid dict (type=type_error.dict)
+2024-02-24 12:39:28,920 - INFO - Document loaded successfully
+2024-02-24 12:39:32,325 - INFO - Documents split successfully
+2024-02-24 12:39:40,771 - INFO - Embeddings created successfully
+2024-02-24 12:39:48,078 - INFO - Vector store created successfully
+2024-02-24 12:40:21,294 - INFO - Retriever created successfully
+2024-02-24 12:41:26,827 - INFO - QA system created successfully
+2024-02-24 12:47:27,342 - INFO - Document loaded successfully
+2024-02-24 12:47:27,342 - INFO - Document loaded successfully
+2024-02-24 12:47:32,914 - INFO - Documents split successfully
+2024-02-24 12:47:32,914 - INFO - Documents split successfully
+2024-02-24 12:47:36,130 - INFO - Embeddings created successfully
+2024-02-24 12:47:36,130 - INFO - Embeddings created successfully
+2024-02-24 12:47:38,824 - INFO - Embeddings created successfully
+2024-02-24 12:47:38,824 - INFO - Embeddings created successfully
+2024-02-24 12:47:46,925 - INFO - Vector store created successfully
+2024-02-24 12:47:46,925 - INFO - Vector store created successfully
+2024-02-24 12:47:54,068 - INFO - Retriever created successfully
+2024-02-24 12:47:54,068 - INFO - Retriever created successfully
+2024-02-24 12:49:21,884 - INFO - QA system created successfully
+2024-02-24 12:49:21,884 - INFO - QA system created successfully
+2024-02-24 13:05:34,505 - INFO - Documents split successfully
+2024-02-24 13:05:34,505 - INFO - Documents split successfully
+2024-02-24 13:05:44,798 - INFO - Documents split successfully
+2024-02-24 13:05:44,798 - INFO - Documents split successfully
+2024-02-24 13:37:07,314 - INFO - Document loaded successfully
+2024-02-24 13:37:07,314 - INFO - Document loaded successfully
+2024-02-24 13:37:07,596 - INFO - Documents split successfully
+2024-02-24 13:37:07,596 - INFO - Documents split successfully
+2024-02-24 13:37:07,858 - INFO - Embeddings created successfully
+2024-02-24 13:37:07,858 - INFO - Embeddings created successfully
+2024-02-24 13:37:16,520 - INFO - Vector store created successfully
+2024-02-24 13:37:16,520 - INFO - Vector store created successfully
+2024-02-24 13:37:16,529 - INFO - Retriever created successfully
+2024-02-24 13:37:16,529 - INFO - Retriever created successfully
+2024-02-24 13:37:17,027 - INFO - QA system created successfully
+2024-02-24 13:37:17,027 - INFO - QA system created successfully
+2024-02-24 13:52:05,226 - INFO - Document loaded successfully
+2024-02-24 13:52:05,226 - INFO - Document loaded successfully
+2024-02-24 13:52:16,079 - INFO - Documents split successfully
+2024-02-24 13:52:16,079 - INFO - Documents split successfully
+2024-02-24 13:52:24,329 - INFO - Embeddings created successfully
+2024-02-24 13:52:24,329 - INFO - Embeddings created successfully
+2024-02-24 13:52:45,870 - INFO - Vector store created successfully
+2024-02-24 13:52:45,870 - INFO - Vector store created successfully
+2024-02-24 13:52:52,105 - INFO - Retriever created successfully
+2024-02-24 13:52:52,105 - INFO - Retriever created successfully
+2024-02-24 13:53:25,995 - INFO - QA system created successfully
+2024-02-24 13:53:25,995 - INFO - QA system created successfully
+2024-02-24 13:56:20,912 - INFO - Documents split successfully
+2024-02-24 13:56:20,912 - INFO - Documents split successfully
+2024-02-24 13:56:31,174 - INFO - Embeddings created successfully
+2024-02-24 13:56:31,174 - INFO - Embeddings created successfully
+2024-02-24 13:56:37,768 - INFO - Vector store created successfully
+2024-02-24 13:56:37,768 - INFO - Vector store created successfully
+2024-02-24 13:56:43,889 - INFO - QA system created successfully
+2024-02-24 13:56:43,889 - INFO - QA system created successfully
+2024-02-24 13:57:48,814 - INFO - Documents split successfully
+2024-02-24 13:57:48,814 - INFO - Documents split successfully
+2024-02-24 13:57:58,243 - INFO - Documents split successfully
+2024-02-24 13:57:58,243 - INFO - Documents split successfully
+2024-02-24 13:58:06,254 - INFO - Embeddings created successfully
+2024-02-24 13:58:06,254 - INFO - Embeddings created successfully
+2024-02-24 13:58:11,565 - INFO - Vector store created successfully
+2024-02-24 13:58:11,565 - INFO - Vector store created successfully
+2024-02-24 13:58:19,463 - INFO - Retriever created successfully
+2024-02-24 13:58:19,463 - INFO - Retriever created successfully
+2024-02-24 13:58:28,443 - INFO - QA system created successfully
+2024-02-24 13:58:28,443 - INFO - QA system created successfully
+2024-02-24 14:00:31,034 - INFO - Document loaded successfully
+2024-02-24 14:00:31,034 - INFO - Document loaded successfully
+2024-02-24 14:01:27,940 - INFO - Documents split successfully
+2024-02-24 14:01:27,940 - INFO - Documents split successfully
+2024-02-24 14:03:01,392 - INFO - Documents split successfully
+2024-02-24 14:03:01,392 - INFO - Documents split successfully
+2024-02-24 14:03:15,663 - INFO - Documents split successfully
+2024-02-24 14:03:15,663 - INFO - Documents split successfully
+2024-02-24 14:03:35,734 - INFO - Documents split successfully
+2024-02-24 14:03:35,734 - INFO - Documents split successfully
+2024-02-24 14:03:43,210 - INFO - Embeddings created successfully
+2024-02-24 14:03:43,210 - INFO - Embeddings created successfully
+2024-02-24 14:03:53,809 - INFO - Vector store created successfully
+2024-02-24 14:03:53,809 - INFO - Vector store created successfully
+2024-02-24 14:04:03,248 - INFO - Retriever created successfully
+2024-02-24 14:04:03,248 - INFO - Retriever created successfully
+2024-02-24 14:04:10,594 - INFO - QA system created successfully
+2024-02-24 14:04:10,594 - INFO - QA system created successfully
+2024-02-24 14:05:11,947 - INFO - Documents split successfully
+2024-02-24 14:05:11,947 - INFO - Documents split successfully
+2024-02-24 14:05:22,868 - INFO - Documents split successfully
+2024-02-24 14:05:22,868 - INFO - Documents split successfully
+2024-02-24 14:05:38,081 - INFO - Retriever created successfully
+2024-02-24 14:05:38,081 - INFO - Retriever created successfully
+2024-02-24 14:07:37,625 - INFO - Documents split successfully
+2024-02-24 14:07:37,625 - INFO - Documents split successfully
+2024-02-24 14:07:55,161 - INFO - Embeddings created successfully
+2024-02-24 14:07:55,161 - INFO - Embeddings created successfully
+2024-02-24 14:08:02,026 - INFO - Vector store created successfully
+2024-02-24 14:08:02,026 - INFO - Vector store created successfully
+2024-02-24 14:08:16,819 - INFO - QA system created successfully
+2024-02-24 14:08:16,819 - INFO - QA system created successfully
+2024-02-24 14:12:08,296 - ERROR - Error splitting documents: Invalid splitter type: CharacterTextSplitter
+2024-02-24 14:12:08,296 - ERROR - Error splitting documents: Invalid splitter type: CharacterTextSplitter
+2024-02-24 14:13:45,116 - ERROR - Error splitting documents: Invalid splitter type: CharacterTextSplitter
+2024-02-24 14:13:45,116 - ERROR - Error splitting documents: Invalid splitter type: CharacterTextSplitter
+2024-02-24 14:13:54,729 - INFO - Document loaded successfully
+2024-02-24 14:13:54,729 - INFO - Document loaded successfully
+2024-02-24 14:13:54,815 - ERROR - Error splitting documents: Invalid splitter type: CharacterTextSplitter
+2024-02-24 14:13:54,815 - ERROR - Error splitting documents: Invalid splitter type: CharacterTextSplitter
+2024-02-24 14:14:09,774 - INFO - Document loaded successfully
+2024-02-24 14:14:09,774 - INFO - Document loaded successfully
+2024-02-24 14:14:10,018 - INFO - Documents split successfully
+2024-02-24 14:14:10,018 - INFO - Documents split successfully
+2024-02-24 14:14:10,263 - INFO - Embeddings created successfully
+2024-02-24 14:14:10,263 - INFO - Embeddings created successfully
+2024-02-24 14:14:14,152 - INFO - Vector store created successfully
+2024-02-24 14:14:14,152 - INFO - Vector store created successfully
+2024-02-24 14:14:14,292 - INFO - Retriever created successfully
+2024-02-24 14:14:14,292 - INFO - Retriever created successfully
+2024-02-24 14:14:15,071 - INFO - QA system created successfully
+2024-02-24 14:14:15,071 - INFO - QA system created successfully
+2024-02-24 14:21:10,871 - INFO - Retriever created successfully
+2024-02-24 14:21:10,871 - INFO - Retriever created successfully
+2024-02-24 14:22:02,166 - INFO - Retriever created successfully
+2024-02-24 14:22:02,166 - INFO - Retriever created successfully
+2024-02-24 14:22:10,057 - INFO - QA system created successfully
+2024-02-24 14:22:10,057 - INFO - QA system created successfully
+2024-02-24 14:24:56,425 - INFO - Documents split successfully
+2024-02-24 14:24:56,425 - INFO - Documents split successfully
+2024-02-24 14:25:05,003 - INFO - Embeddings created successfully
+2024-02-24 14:25:05,003 - INFO - Embeddings created successfully
+2024-02-24 14:25:12,138 - INFO - Retriever created successfully
+2024-02-24 14:25:12,138 - INFO - Retriever created successfully
+2024-02-24 14:25:12,626 - INFO - QA system created successfully
+2024-02-24 14:25:12,626 - INFO - QA system created successfully
+2024-02-24 15:21:24,160 - INFO - Document loaded successfully
+2024-02-24 15:21:24,160 - INFO - Document loaded successfully
+2024-02-24 15:21:24,395 - INFO - Documents split successfully
+2024-02-24 15:21:24,395 - INFO - Documents split successfully
+2024-02-24 15:22:19,615 - INFO - Document loaded successfully
+2024-02-24 15:22:19,615 - INFO - Document loaded successfully
+2024-02-24 15:22:19,914 - INFO - Documents split successfully
+2024-02-24 15:22:19,914 - INFO - Documents split successfully
+2024-02-24 15:23:03,789 - INFO - Retriever created successfully
+2024-02-24 15:23:03,789 - INFO - Retriever created successfully
+2024-02-24 15:23:04,452 - INFO - QA system created successfully
+2024-02-24 15:23:04,452 - INFO - QA system created successfully
+2024-02-24 15:43:35,816 - INFO - Document loaded successfully
+2024-02-24 15:43:35,816 - INFO - Document loaded successfully
+2024-02-24 15:43:43,829 - INFO - Documents split successfully
+2024-02-24 15:43:43,829 - INFO - Documents split successfully
+2024-02-24 15:52:14,152 - INFO - QA system created successfully
+2024-02-24 15:52:14,152 - INFO - QA system created successfully
+2024-02-24 15:54:07,918 - INFO - Document loaded successfully
+2024-02-24 15:54:07,918 - INFO - Document loaded successfully
+2024-02-24 15:54:08,294 - INFO - Documents split successfully
+2024-02-24 15:54:08,294 - INFO - Documents split successfully
+2024-02-24 16:00:17,573 - INFO - QA system created successfully
+2024-02-24 16:00:17,573 - INFO - QA system created successfully
+2024-02-24 16:02:03,426 - INFO - QA system created successfully
+2024-02-24 16:02:03,426 - INFO - QA system created successfully
+2024-02-24 16:06:41,537 - ERROR - Error splitting documents: Invalid splitter type: recursive_character
+2024-02-24 16:06:41,537 - ERROR - Error splitting documents: Invalid splitter type: recursive_character
+2024-02-24 16:06:55,845 - ERROR - Error splitting documents: Invalid splitter type: Recursive_character
+2024-02-24 16:06:55,845 - ERROR - Error splitting documents: Invalid splitter type: Recursive_character
+2024-02-24 16:08:18,246 - INFO - Document loaded successfully
+2024-02-24 16:08:18,246 - INFO - Document loaded successfully
+2024-02-24 16:08:18,376 - ERROR - Error splitting documents: Invalid splitter type: Recursive_character
+2024-02-24 16:08:18,376 - ERROR - Error splitting documents: Invalid splitter type: Recursive_character
+2024-02-24 16:21:37,087 - INFO - Documents split successfully
+2024-02-24 16:21:37,087 - INFO - Documents split successfully
+2024-02-24 16:21:43,104 - INFO - Documents split successfully
+2024-02-24 16:21:43,104 - INFO - Documents split successfully
+2024-02-24 16:22:01,578 - INFO - Document loaded successfully
+2024-02-24 16:22:01,578 - INFO - Document loaded successfully
+2024-02-24 16:22:01,824 - INFO - Documents split successfully
+2024-02-24 16:22:01,824 - INFO - Documents split successfully
+2024-02-24 16:30:35,016 - INFO - QA system created successfully
+2024-02-24 16:30:35,016 - INFO - QA system created successfully
+2024-02-24 16:34:06,646 - ERROR - Error loading document: File path ../data/Evaluation Sets/Raptor Contract is not a valid file or url
+2024-02-24 16:34:06,646 - ERROR - Error loading document: File path ../data/Evaluation Sets/Raptor Contract is not a valid file or url
+2024-02-24 16:34:26,285 - INFO - Document loaded successfully
+2024-02-24 16:34:26,285 - INFO - Document loaded successfully
+2024-02-24 16:34:31,454 - INFO - Document loaded successfully
+2024-02-24 16:34:31,454 - INFO - Document loaded successfully
+2024-02-24 16:34:31,571 - INFO - Documents split successfully
+2024-02-24 16:34:31,571 - INFO - Documents split successfully
+2024-02-24 16:34:31,874 - INFO - Embeddings created successfully
+2024-02-24 16:34:31,874 - INFO - Embeddings created successfully
+2024-02-24 16:34:39,396 - INFO - Vector store created successfully
+2024-02-24 16:34:39,396 - INFO - Vector store created successfully
+2024-02-24 16:34:39,407 - INFO - Retriever created successfully
+2024-02-24 16:34:39,407 - INFO - Retriever created successfully
+2024-02-24 16:34:40,256 - INFO - QA system created successfully
+2024-02-24 16:34:40,256 - INFO - QA system created successfully
+2024-02-24 16:35:42,906 - INFO - Documents split successfully
+2024-02-24 16:35:42,906 - INFO - Documents split successfully
+2024-02-24 16:35:43,251 - INFO - Embeddings created successfully
+2024-02-24 16:35:43,251 - INFO - Embeddings created successfully
+2024-02-24 16:35:48,448 - INFO - Vector store created successfully
+2024-02-24 16:35:48,448 - INFO - Vector store created successfully
+2024-02-24 16:35:48,471 - INFO - Retriever created successfully
+2024-02-24 16:35:48,471 - INFO - Retriever created successfully
+2024-02-24 16:35:49,384 - INFO - QA system created successfully
+2024-02-24 16:35:49,384 - INFO - QA system created successfully
+2024-02-24 16:36:14,647 - INFO - Documents split successfully
+2024-02-24 16:36:14,647 - INFO - Documents split successfully
+2024-02-24 16:36:39,494 - INFO - Documents split successfully
+2024-02-24 16:36:39,494 - INFO - Documents split successfully
+2024-02-24 16:37:16,627 - INFO - Embeddings created successfully
+2024-02-24 16:37:16,627 - INFO - Embeddings created successfully
+2024-02-24 16:37:21,218 - INFO - Vector store created successfully
+2024-02-24 16:37:21,218 - INFO - Vector store created successfully
+2024-02-24 16:37:21,258 - INFO - Retriever created successfully
+2024-02-24 16:37:21,258 - INFO - Retriever created successfully
+2024-02-24 16:37:22,157 - INFO - QA system created successfully
+2024-02-24 16:37:22,157 - INFO - QA system created successfully
+2024-02-24 16:37:50,359 - INFO - Documents split successfully
+2024-02-24 16:37:50,359 - INFO - Documents split successfully
+2024-02-24 16:37:52,308 - INFO - Documents split successfully
+2024-02-24 16:37:52,308 - INFO - Documents split successfully
+2024-02-24 16:37:53,599 - INFO - Embeddings created successfully
+2024-02-24 16:37:53,599 - INFO - Embeddings created successfully
+2024-02-24 16:37:57,679 - INFO - Vector store created successfully
+2024-02-24 16:37:57,679 - INFO - Vector store created successfully
+2024-02-24 16:37:57,707 - INFO - Retriever created successfully
+2024-02-24 16:37:57,707 - INFO - Retriever created successfully
+2024-02-24 16:37:58,414 - INFO - QA system created successfully
+2024-02-24 16:37:58,414 - INFO - QA system created successfully
+2024-02-24 16:41:46,089 - INFO - Vector store created successfully
+2024-02-24 16:41:46,089 - INFO - Vector store created successfully
+2024-02-24 16:41:46,536 - INFO - Retriever created successfully
+2024-02-24 16:41:46,536 - INFO - Retriever created successfully
+2024-02-24 16:41:47,808 - INFO - QA system created successfully
+2024-02-24 16:41:47,808 - INFO - QA system created successfully
+2024-02-24 16:47:42,073 - INFO - Document loaded successfully
+2024-02-24 16:47:42,073 - INFO - Document loaded successfully
+2024-02-24 16:47:42,498 - INFO - Documents split successfully
+2024-02-24 16:47:42,498 - INFO - Documents split successfully
+2024-02-24 16:47:42,912 - INFO - Embeddings created successfully
+2024-02-24 16:47:42,912 - INFO - Embeddings created successfully
+2024-02-24 16:50:17,975 - INFO - Vector store created successfully
+2024-02-24 16:50:17,975 - INFO - Vector store created successfully
+2024-02-24 16:50:18,030 - INFO - Retriever created successfully
+2024-02-24 16:50:18,030 - INFO - Retriever created successfully
+2024-02-24 16:50:20,045 - INFO - QA system created successfully
+2024-02-24 16:50:20,045 - INFO - QA system created successfully
+2024-02-24 17:00:44,832 - INFO - Document loaded successfully
+2024-02-24 17:00:44,832 - INFO - Document loaded successfully
+2024-02-24 17:14:53,533 - INFO - Document loaded successfully
+2024-02-24 17:14:53,533 - INFO - Document loaded successfully
+2024-02-24 17:48:07,569 - INFO - Document loaded successfully
+2024-02-24 17:48:07,663 - INFO - Document loaded successfully
+2024-02-24 18:17:21,746 - INFO - Document loaded successfully
+2024-02-24 18:17:21,878 - INFO - Document loaded successfully
+2024-02-24 21:52:50,064 - INFO - Document loaded successfully
+2024-02-24 21:52:50,258 - INFO - Document loaded successfully
+2024-02-25 12:40:42,102 - INFO - Document loaded successfully
+2024-02-25 12:40:42,423 - INFO - Document loaded successfully
+2024-02-25 12:53:32,982 - INFO - Document loaded successfully
+2024-02-25 12:53:33,130 - INFO - Document loaded successfully
+2024-02-25 22:31:07,507 - INFO - Document loaded successfully
+2024-02-25 22:31:07,636 - INFO - Document loaded successfully
+2024-02-25 23:04:53,793 - INFO - Document loaded successfully
+2024-02-25 23:04:53,883 - INFO - Document loaded successfully
+2024-02-26 21:40:22,752 - INFO - Document loaded successfully
+2024-02-26 21:40:23,055 - INFO - Document loaded successfully
+2024-02-26 21:41:04,107 - INFO - Document loaded successfully
+2024-02-26 21:41:04,134 - INFO - Document loaded successfully
+2024-02-26 21:41:52,256 - INFO - Document loaded successfully
+2024-02-26 21:41:52,447 - INFO - Document loaded successfully
+2024-02-26 21:45:11,245 - INFO - Document loaded successfully
+2024-02-26 21:45:11,279 - INFO - Document loaded successfully
+2024-02-26 22:05:31,511 - INFO - Document loaded successfully
+2024-02-26 22:05:31,569 - INFO - Document loaded successfully
+2024-02-26 22:06:48,481 - INFO - Document loaded successfully
+2024-02-26 22:06:48,511 - INFO - Document loaded successfully
+2024-02-26 22:10:04,315 - INFO - Document loaded successfully
+2024-02-26 22:10:04,449 - INFO - Document loaded successfully
+2024-02-26 23:11:39,590 - INFO - Document loaded successfully
+2024-02-26 23:11:39,804 - INFO - Document loaded successfully
+2024-02-26 23:28:08,031 - INFO - Document loaded successfully
+2024-02-26 23:28:08,124 - INFO - Document loaded successfully
+2024-02-27 00:03:50,913 - INFO - Document loaded successfully
+2024-02-27 00:03:51,056 - INFO - Document loaded successfully
+2024-02-27 00:06:39,715 - INFO - Document loaded successfully
+2024-02-27 00:06:39,732 - INFO - Document loaded successfully
+2024-02-27 00:07:25,844 - INFO - Document loaded successfully
+2024-02-27 00:07:26,003 - INFO - Document loaded successfully
+2024-02-27 00:09:58,493 - INFO - Document loaded successfully
+2024-02-27 00:09:58,509 - INFO - Document loaded successfully
+2024-02-27 00:14:46,295 - INFO - Document loaded successfully
+2024-02-27 00:14:46,312 - INFO - Document loaded successfully
+2024-02-27 00:16:08,482 - INFO - Document loaded successfully
+2024-02-27 00:16:08,498 - INFO - Document loaded successfully
+2024-02-27 00:26:23,229 - INFO - Document loaded successfully
+2024-02-27 00:26:23,244 - INFO - Document loaded successfully
+2024-02-27 09:56:53,097 - INFO - Document loaded successfully
+2024-02-27 09:56:53,337 - INFO - Document loaded successfully
+2024-02-27 10:40:54,177 - INFO - Document loaded successfully
+2024-02-27 10:40:54,353 - INFO - Document loaded successfully
+2024-02-27 10:41:59,748 - INFO - Document loaded successfully
+2024-02-27 10:41:59,780 - INFO - Document loaded successfully
+2024-03-05 21:19:36,605 - INFO - Document loaded successfully
+2024-03-05 21:19:36,761 - INFO - Document loaded successfully
+2024-03-05 21:33:11,023 - INFO - Document loaded successfully
+2024-03-05 21:33:11,050 - INFO - Document loaded successfully
+2024-03-09 11:16:12,578 - INFO - Document loaded successfully
+2024-03-09 11:16:12,744 - INFO - Document loaded successfully
+2024-03-09 12:11:04,268 - INFO - Document loaded successfully
+2024-03-09 12:11:04,314 - INFO - Document loaded successfully
+2024-03-09 13:06:31,651 - INFO - Document loaded successfully
+2024-03-09 13:06:31,669 - INFO - Document loaded successfully
+2024-03-09 13:07:18,131 - INFO - Document loaded successfully
+2024-03-09 13:07:18,155 - INFO - Document loaded successfully
+2024-03-09 13:40:12,320 - INFO - Document loaded successfully
+2024-03-09 13:40:12,340 - INFO - Document loaded successfully
+2024-03-09 15:23:35,293 - INFO - Document loaded successfully
+2024-03-09 15:23:35,460 - INFO - Document loaded successfully
+2024-03-09 16:17:28,604 - INFO - Document loaded successfully
+2024-03-09 16:17:28,728 - INFO - Document loaded successfully
+2024-06-07 15:05:32,836 - INFO - Document loaded successfully
+2024-06-07 15:05:33,013 - INFO - Document loaded successfully
