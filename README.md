@@ -1,7 +1,6 @@
 # LegalAI-RAG-ContractAdvisor
 ContractAdvisorRAG: Development of a Q&amp;A system with RAG using Langchain. This repository contains the code and documentation for building an AI-based legal assistance system for contracts. It includes retrieval and generation components, backend and frontend integration, as well as tools for evaluating and optimizing the RAG system using RAGAS.
 
-
 **Motivation:**
 
 - Efficiently answer questions about specific clauses and terms within contracts.
@@ -29,6 +28,14 @@ ContractAdvisorRAG: Development of a Q&amp;A system with RAG using Langchain. Th
 * Targeted enhancements focusing on legal language understanding, precision, and data curation showed promising improvements.
 * Collaboration between legal professionals and AI researchers is crucial for effective development and deployment of such systems.
 
+<p align="center">
+  <a href="https://youtu.be/KjBWNNN3thA">
+    <img src="https://img.youtube.com/vi/KjBWNNN3thA/maxresdefault.jpg" alt="Demo Video" width="600" />
+  </a>
+</p>
+
+The demo video showcases the basic functionality of the ContractAdvisorRAG system.
+
 **Future Work:**
 
 * Continue refining the system with additional legal data and domain-specific training.
@@ -47,4 +54,4 @@ This project is licensed under the MIT License.
 
 - [Elias Assamnew](https://github.com/gelifatsy) 
 
-We hope this project contributes to the advancement of AI-powered legal solutions. Please do not hesitate to reach out with any questions or suggestions.
+I hope this project contributes to the advancement of AI-powered legal solutions. Please do not hesitate to reach out with any questions or suggestions.
