@@ -28,10 +28,7 @@ ContractAdvisorRAG: Development of a Q&A system with RAG using Langchain. This r
 * Targeted enhancements focusing on legal language understanding, precision, and data curation showed promising improvements.
 * Collaboration between legal professionals and AI researchers is crucial for effective development and deployment of such systems.
 
-<video width="100%" controls>
-  <source src="https://www.youtube.com/embed/KjBWNNN3thA" type="video/youtube">
-  Your browser does not support the video tag.
-</video>
+[![ContractAdvisorRAG Video](https://img.youtube.com/vi/KjBWNNN3thA/maxresdefault.jpg)](https://www.youtube.com/watch?v=KjBWNNN3thA)
 
 The video showcases the basic functionality of the ContractAdvisorRAG system.
 
