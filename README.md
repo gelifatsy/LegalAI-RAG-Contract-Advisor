@@ -29,9 +29,10 @@ ContractAdvisorRAG: Development of a Q&amp;A system with RAG using Langchain. Th
 * Collaboration between legal professionals and AI researchers is crucial for effective development and deployment of such systems.
 
 <p align="center">
-  <a href="https://youtu.be/KjBWNNN3thA">
-    <img src="https://img.youtube.com/vi/KjBWNNN3thA/maxresdefault.jpg" alt="Demo Video" width="600" />
-  </a>
+  <video width="600" controls>
+    <source src="https://youtu.be/KjBWNNN3thA" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 The demo video showcases the basic functionality of the ContractAdvisorRAG system.
@@ -54,4 +55,4 @@ This project is licensed under the MIT License.
 
 - [Elias Assamnew](https://github.com/gelifatsy) 
 
-I hope this project contributes to the advancement of AI-powered legal solutions. Please do not hesitate to reach out with any questions or suggestions.
+We hope this project contributes to the advancement of AI-powered legal solutions. Please do not hesitate to reach out with any questions or suggestions.
