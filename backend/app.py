@@ -7,21 +7,15 @@ import getpass
 openai.api_key = os.environ["OPENAI_API_KEY"]
 # os.environ["COHERE_API_KEY"] = getpass.getpass("Cohere API Key:")
 
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain_community.document_loaders import TextLoader
+from langchain_community.document_loaders import TextLoader, Docx2txtLoader
 from langchain_community.embeddings import CohereEmbeddings
 from langchain_community.vectorstores import FAISS
-
-from langchain.retrievers import ContextualCompressionRetriever
-from langchain.retrievers.document_compressors import CohereRerank
 from langchain_community.llms import Cohere
+from langchain.retrievers import ContextualCompressionRetriever
+from langchain_cohere import CohereRerank
 from langchain.chains import RetrievalQA
-from langchain.document_loaders import TextLoader
-from langchain.embeddings.openai import OpenAIEmbeddings
-from langchain.llms import OpenAI
-from langchain.text_splitter import CharacterTextSplitter, RecursiveCharacterTextSplitter
-from langchain.vectorstores import Chroma
-from langchain.document_loaders import Docx2txtLoader
+from langchain_openai import OpenAI, OpenAIEmbeddings
+from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
@@ -82,7 +76,7 @@ split_texts = text_splitter.split_documents(all_documents)
 vector_store = FAISS.from_documents(split_texts, OpenAIEmbeddings())
 retriever = vector_store.as_retriever(search_kwargs={"k": 5})
 
-compressor = CohereRerank()
+compressor = CohereRerank(model="rerank-english-v3.0")
 compression_retriever = ContextualCompressionRetriever(
     base_compressor=compressor, base_retriever=retriever
 )
@@ -93,15 +87,11 @@ def answer_query(query):
     """Answers a given query using the trained QA system."""
 
     try:
-        response = qa.run(query)
-        formatted_response = f"Answer: {response}"
-        return formatted_response
+        response = qa.invoke(query)
+        return response["result"].strip()
 
     except Exception as e:  # Handle potential errors gracefully
         return f"An error occurred: {e}"
-
-
-from fastapi import FastAPI, Body
 
 app = FastAPI()
 app.add_middleware(
@@ -115,16 +105,8 @@ app.add_middleware(
 class Query(BaseModel):
     query: str
 
-
-
 @app.post("/answer")
 async def answer(query: Query):
     """Receives a query from the frontend and returns the answer."""
     response = answer_query(query.query)
     return {"answer": response}
-
-    # # Handle potential errors and provide informative messages
-    # if isinstance(response, str) and response.startswith("An error occurred"):
-    #     return {"answer": response}
-    # else:
-    #     return {"answer": f"Answer: {response}"}
